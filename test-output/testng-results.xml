@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6821" started-at="2020-08-31T16:56:00Z" finished-at="2020-08-31T16:56:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6821" started-at="2020-08-31T16:56:00Z" finished-at="2020-08-31T16:56:07Z">
+      <class name="com.careerhack.common.TestNGPractice">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.careerhack.common.TestNGPractice@475e586c]" name="setup" is-config="true" duration-ms="5368" started-at="2020-08-31T16:56:00Z" finished-at="2020-08-31T16:56:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Actual()[pri:0, instance:com.careerhack.common.TestNGPractice@475e586c]" name="Actual" duration-ms="200" started-at="2020-08-31T16:56:05Z" finished-at="2020-08-31T16:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Actual -->
+        <test-method status="PASS" signature="Closure()[pri:0, instance:com.careerhack.common.TestNGPractice@475e586c]" name="Closure" is-config="true" duration-ms="1237" started-at="2020-08-31T16:56:06Z" finished-at="2020-08-31T16:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closure -->
+      </class> <!-- com.careerhack.common.TestNGPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
